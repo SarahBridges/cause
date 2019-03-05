@@ -14,7 +14,7 @@ p
 }
 a
 {
-  text-align: center;
-  align: center;
+  margin-left: auto;
+  margin-right: auto;
   color: slateblue;
 }
